@@ -20,23 +20,6 @@ The Café Management System is a comprehensive desktop application designed to s
 
 ---
 
-
-## 🗂️ Project Structure
-
-| Class | Description |
-|-------|-------------|
-| `login` | Handles user authentication against the database |
-| `registerform` | Registers new users into the system |
-| `afterlog` | Main dashboard displayed after successful login |
-| `food` | Manages the café menu (CRUD operations on food items) |
-| `staff` | Manages staff records (CRUD operations) |
-| `order` | Handles customer order processing |
-| `bill` | Generates and manages customer bills |
-| `totalsales` | Displays all sales records with total revenue calculation |
-| `dbconnect` | Handles database connection |
-
----
-
 ## 🛠️ Tech Stack
 
 - **Language:** Java
