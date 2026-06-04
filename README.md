@@ -1,21 +1,9 @@
 # ☕ Café Management System
 
-A Java-based desktop application developed as an Object-Oriented Programming project at **Bahria University, Karachi Campus** (CSE-210 OOP, Spring 2023).
+A Java-based desktop application developed as an Object-Oriented Programming project
 
 ---
 
-## 👥 Team Members
-
-| S.No | Name | Enrollment # |
-|------|------|--------------|
-| 1 | Hasan Shahab Siddiqui | 02-131222-059 |
-| 2 | Abdullah Hussain | 02-131222-086 |
-| 3 | M. Uzair Naseem | 02-131222-045 |
-| 4 | M. Muzammil Moosani | 02-131222-111 |
-
-**Submitted to:** Engr. Mahawish / Engr. Saniya Sarim
-
----
 
 ## 📖 Overview
 
@@ -95,16 +83,3 @@ The Café Management System is a comprehensive desktop application designed to s
    - **Billing** — generate bills
    - **Total Sales** — view sales history and revenue
 
----
-
-## 📌 Notes
-
-- All database queries use `PreparedStatement` for structured query execution.
-- The application uses a confirmation dialog before any delete operation.
-- Search functionality is available in both the Food and Staff modules.
-
----
-
-## 📄 License
-
-This project was developed for academic purposes at Bahria University, Karachi Campus. Not intended for commercial use.
