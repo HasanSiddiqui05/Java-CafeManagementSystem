@@ -20,16 +20,6 @@ The Café Management System is a comprehensive desktop application designed to s
 
 ---
 
-## ✨ Features
-
-- **Login & Registration** — Secure user authentication with credential validation
-- **Menu Management** — Add, update, delete, and search food items
-- **Order Management** — Place and track customer orders
-- **Billing** — Generate bills and manage cash/balance calculations
-- **Staff Management** — Manage staff profiles including position, contact, section, and NIC
-- **Sales Analysis** — View total sales records with search and aggregation
-
----
 
 ## 🗂️ Project Structure
 
